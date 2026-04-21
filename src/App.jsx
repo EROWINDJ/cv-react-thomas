@@ -34,7 +34,7 @@ export default function App() {
       },
       {
         value: "100+",
-        label: "heures en distanciel (audits, formations, accompagnements",
+        label: "heures en distanciel (audits, formations, accompagnements)",
       },
     ],
   };
