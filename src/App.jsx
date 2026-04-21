@@ -173,7 +173,7 @@ export default function App() {
   ];
 
   const tools = [
-    "Windsurf",
+    "Windsurf (IDE IA)",
     "VS Code",
     "DBeaver",
     "PostgreSQL",
