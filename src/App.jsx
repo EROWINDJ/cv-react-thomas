@@ -255,12 +255,12 @@ export default function App() {
                   Me contacter
                 </a>
 
-                <a
-                  href="#"
-                  className="flex items-center justify-center rounded-2xl border border-slate-300 bg-white px-5 py-4 text-base font-medium text-slate-700 hover:bg-slate-50 transition-colors"
-                >
-                  Télécharger mon CV (PDF)
-                </a>
+                <button
+  onClick={() => window.print()}
+  className="flex items-center justify-center rounded-2xl border border-slate-300 bg-white px-5 py-4 text-base font-medium text-slate-700 hover:bg-slate-50 transition-colors"
+>
+  Télécharger mon CV (PDF)
+</button>
               </div>
 
               <div className="mt-8 pt-6 border-t border-slate-200">
