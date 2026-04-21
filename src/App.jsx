@@ -167,7 +167,6 @@ export default function App() {
     "PostgreSQL",
     "Git / GitHub",
     "API REST",
-    "Bases de données",
     "Automatisation",
     "Développement web",
   ];
@@ -175,7 +174,6 @@ export default function App() {
  const tools = [
   "Windsurf (IDE IA)",
   "VS Code",
-  "Postman",
   "DBeaver",
   "PostgreSQL",
   "Linux",
