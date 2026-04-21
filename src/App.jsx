@@ -175,13 +175,11 @@ export default function App() {
   const tools = [
     "Windsurf",
     "VS Code",
-    "Postman",
     "DBeaver",
     "PostgreSQL",
     "Linux",
     "Vercel",
     "Nginx",
-    "Claude API",
   ];
 
   const SectionTitle = ({ icon, title, accent = "indigo" }) => {
