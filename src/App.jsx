@@ -255,13 +255,13 @@ export default function App() {
                   Me contacter
                 </a>
 
-               <a
-                  href="/CV_Thomas_Vigier_v2.pdf"
-                  download
-                  className="flex items-center justify-center rounded-2xl border border-slate-300 bg-white px-5 py-4 text-base font-medium text-slate-700 hover:bg-slate-50 transition-colors"
+                <a
+                href="/CV_Thomas_Vigier_V2.pdf"
+                download
+                className="flex items-center justify-center rounded-2xl border border-slate-300 bg-white px-5 py-4 text-base font-medium text-slate-700 hover:bg-slate-50 transition-colors"
                 >
-                  Télécharger mon CV (PDF)
-</a> 
+                Télécharger mon CV (PDF)
+                </a>
 
               </div>
 
