@@ -43,7 +43,7 @@ export const experiences = [
   },
   {
     category: "Formation",
-    role: "Consultant formateur",
+    role: "Formateur",
     company: "M3 Finances",
     period: "03/2025 – 09/2025",
     accent: "Formation financière",
